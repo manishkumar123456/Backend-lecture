@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "backend-devlopment",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "author": "manish kumar",
+  "license": "ISC",
+  "description": ""
+}
